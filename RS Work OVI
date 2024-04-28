@@ -1,0 +1,28 @@
+#EXTM3U
+
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/BTV%20National.png"group-title="Bangla",BTV World
+http://cdn01.palki.tv:80/live/BTVWorld-M/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/L8qbYCV/images-1.jpg"group-title="Bangla",Somoy TV
+https://livess.ncare.live/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/7CNYdQn/images-2.jpg"group-title="Bangla",T-Sport
+https://live-cdn.tsports.com/live-02/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1JZSNyy/images.png"group-title="Bangla",Ekushey TV
+https://ekusheyserver.com/etvlivesn.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/yNgSPcb/images-3.jpg"group-title="Bangla",Jamuna TV
+https://livess.ncare.live/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/0sBHhmT/images-1.png"group-title="Bangla",Nagorik TV
+http://cdn01.palki.tv/live/NagorikTV-M/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/DKfHCFC/images-5.jpg"group-title="Kolkata",Zee Bangla HD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Zee_Bangla_HD_MOB/Fallback/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/YTk59xT/images-3.png"group-title="Kolkata",Colors Bangla HD
+https://jiotv.nayeemparvez.workers.dev/bpk-tv/Colors_Bengali_HD_MOB/Fallback/index.m3u8
+
+
